@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I am Baris Akcay</h1>
-- 🌱 I’m currently learning **iOS**
+
+
+- 🌱 I’m currently learning *iOS*
 
 - 📫 How to reach me **embarisakcay@gmail.com**
 
