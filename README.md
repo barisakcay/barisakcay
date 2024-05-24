@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I am Baris Akcay</h1>
+<h1 align="center">Hey, I am Baris Akcay</h1>
 
 
 - 🌱 I’m currently learning *iOS*
 
-- 📫 How to reach me **embarisakcay@gmail.com**
+- 📫 How to reach me **eebarisakcay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
