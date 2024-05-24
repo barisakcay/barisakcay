@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I am Baris Akcay</h1>
+<h1>   Hey, I am Baris Akcay</h1>
 
 
 - 🌱 I’m currently learning *iOS*
